@@ -6,7 +6,7 @@ import pylab as pl
 import numpy as np
 
 t1 = time.time()
-data_path = '../../1.1 Dataset Simulation/1.1.3 Dataset/'
+data_path = 'Dataset/'
 
 dataset = SnSpectrumLoader(file_path=data_path + args_d.file_path, length_freq=args_d.length_freq,
                            SNR_range=args_d.SNR_range, num_read_sources=args_d.num_read_sources, Sr=np.array([10]),

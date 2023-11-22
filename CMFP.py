@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on 2023年2月13日10:01:14
-
-@author: admin
-"""
 import numpy as np
 import torch
 import torch.nn as nn

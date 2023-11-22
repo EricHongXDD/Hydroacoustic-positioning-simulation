@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan  4 16:48:02 2022
-
-@author: admin
-"""
 import os
 # import math
 # from decimal import Decimal

@@ -4,7 +4,7 @@ from NetMain import *
 from data.Dataloader import *
 from torch.autograd import Variable
 from model.xception import *
-data_path = 'C:/Users/10292/Desktop/1.53UnderwaterSourceLocalizationProgramVersion2/1.2NeuralNetworks/data/SW_Training_001_Freq50-200Hz_Sr1-20km_No.1.sim'
+data_path = 'xxxx.sim'
 
 dataset = SnSpectrumLoader(file_path=data_path, length_freq=151,
                            SNR_range=[15, 15], num_read_sources=32, Sr=np.array([10]),

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan  4 17:29:17 2022
-
-@author: admin
-"""
 import random
 from importlib import import_module
 import torch

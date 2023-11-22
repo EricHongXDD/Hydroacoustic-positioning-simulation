@@ -1,5 +1,3 @@
-
-
 NE = 0.05
 model_path = ''
 for epoch in range(0, 100):

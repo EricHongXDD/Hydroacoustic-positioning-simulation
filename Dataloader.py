@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 19 16:59:17 2021
-
-@author: admin
-读取实验数据
-"""
-
 import torch
 import torch.utils.data as data
 import struct
